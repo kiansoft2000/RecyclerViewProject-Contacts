@@ -6,6 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.recyclerviewproject_contacts"
+        vectorDrawables.useSupportLibrary = true
         minSdkVersion 17
         targetSdkVersion 29
         versionCode 1
